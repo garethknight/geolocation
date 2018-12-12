@@ -2,14 +2,14 @@
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1544574266920,
             "changeTime": 1544574266920,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1544574266920,
             "changeTime": 1544574266920,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -36,38 +36,37 @@
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 224,
-            "modifiedTime": 1544574914998,
-            "changeTime": 1544574914998,
-            "contentHash": "4e221285910e10ba09a94e0285f71f1fcf7be9c8"
+            "size": 320,
+            "modifiedTime": 1544577512447,
+            "changeTime": 1544577512447,
+            "contentHash": "d40768cfe888123fcc2539cb9d0cf287f66d1d9f"
         }
     ],
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1544577180056,
+            "changeTime": 1544577180056,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "size": 64,
-            "modifiedTime": 1544574266920,
-            "changeTime": 1544574266920,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/lwc",
         {
-            "state": "n",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 64,
             "modifiedTime": 1544574266920,
             "changeTime": 1544574266920,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -75,107 +74,106 @@
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation",
         {
-            "state": "n",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation",
             "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1544576183228,
+            "changeTime": 1544576183228,
+            "contentHash": "ae8195e3873cdb1c407daddc36b1d69663a17a91",
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1544574404163,
-            "changeTime": 1544574404163,
-            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1544574914969,
             "changeTime": 1544574914969,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1544574914977,
             "changeTime": 1544574914977,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1544574914985,
             "changeTime": 1544574914985,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1544574914992,
             "changeTime": 1544574914992,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1544574914997,
             "changeTime": 1544574914997,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1544574914998,
             "changeTime": 1544574914998,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1544574914969,
             "changeTime": 1544574914969,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -185,49 +183,335 @@
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1544574914968,
-            "changeTime": 1544574914968,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "size": 128,
+            "modifiedTime": 1544577512440,
+            "changeTime": 1544577512440,
+            "contentHash": "90af1088d8c7cad30c6182b4ec88927b7bcd5001"
         }
     ],
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1544574914968,
             "changeTime": 1544574914968,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1544574914997,
             "changeTime": 1544574914997,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1544574914998,
             "changeTime": 1544574914998,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1544577156442,
+            "changeTime": 1544576827617,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "size": 380,
+            "modifiedTime": 1544577031376,
+            "changeTime": 1544577031376,
+            "contentHash": "45f69a2771f0c746b0b5a3a4edd9174f50b47251",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1544576827617,
+            "changeTime": 1544576827617,
+            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1544577180059,
+            "changeTime": 1544577180059,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1544577180059,
+            "changeTime": 1544577180059,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 170,
+            "modifiedTime": 1544577328383,
+            "changeTime": 1544577328383,
+            "contentHash": "15706ae98b3f4add5dcecb970786ecaf3e64f2ac",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1544577180057,
+            "changeTime": 1544577180057,
+            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 129,
+            "modifiedTime": 1544577350786,
+            "changeTime": 1544577350786,
+            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1544577180059,
+            "changeTime": 1544577180059,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1544577180058,
+            "changeTime": 1544577180058,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1544577180057,
+            "changeTime": 1544577180057,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1544577180057,
+            "changeTime": 1544577180057,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1544577180058,
+            "changeTime": 1544577180058,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/objects/Account/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/objects/Account/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 436,
+            "modifiedTime": 1544577512441,
+            "changeTime": 1544577512441,
+            "contentHash": "1fc287e41c8f59c1e4c386a8e20afe767b116887"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1544577512444,
+            "changeTime": 1544577512444,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4680,
+            "modifiedTime": 1544577512448,
+            "changeTime": 1544577512448,
+            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18199,
+            "modifiedTime": 1544577512461,
+            "changeTime": 1544577512461,
+            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5016,
+            "modifiedTime": 1544577512464,
+            "changeTime": 1544577512464,
+            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4676,
+            "modifiedTime": 1544577512468,
+            "changeTime": 1544577512468,
+            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/objects/Account/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/objects/Account/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544577512441,
+            "changeTime": 1544577512441,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544577512444,
+            "changeTime": 1544577512444,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/gknight/sfdx-projects/sfdx_trailhead_project/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544577512467,
+            "changeTime": 1544577512467,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
